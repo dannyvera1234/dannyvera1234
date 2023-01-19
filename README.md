@@ -29,23 +29,18 @@
     especializarme como front-end developer.
   </p>
 
-  <h3>EXPERIENCIA ⚡ ⚡</h3>
-  
+  <h3>EXPERIENCIA</h3>  
     <p>
       ✅ mas de 800 horas de teoría y practica en el bootcamp de hennry,
       aprendiendo tecnologías como react, redux, node, express, postgress.
     </p>
-
     <p>
       ✅mas de 300 horas de experiencia en platzi, aprendiendo tecnologías como
       react, redux, javascript, html 5, css3 , Vite, Typescript , nodejs.
     </p>
-
     <p>✅cuento con mas de 60 certificados de desarrollo web.</p>
-
     <p>
       ✅Actualmente soy ingeniería en sistemas, en la Universidad Laica Eloy
       Alfaro de Manabi🚀.
-    </p>
-  
+    </p>  
 </div>
