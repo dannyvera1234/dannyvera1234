@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <div style="text-align: center;">
     <h1>👋 Saludos, mi nombre es Daniel Vera Desarrollador FrontEnd Jr</h1>
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" >
-   <p>Skills: ANGULAR / JS / HTML / CSS / SASS 
+   <p>Skills: ANGULAR / JS / HTML / CSS / SASS <p>
 
-    Soy estudiante de programacion desde el 2021, empezando con el lenguaje de Java, aprendiendo paradigamas de programacion, luego fui descubriendo el maravilloso mundo del desarrollo web, el cual desde el principio del 2022 no he dejado ni un dia de aprender💪 .
+    Soy estudiante de programacion desde el 2022, empezando con el lenguaje de Java, aprendiendo paradigamas de programacion, luego fui descubriendo el maravilloso mundo del desarrollo web, el cual desde el principio del 2022 no he dejado ni un dia de aprender💪 .
     
-    ✔ PORTAFOLIO: https://portfolio-difernando11.vercel.app/
+    ✔ PORTAFOLIO: 
     
     ✅ Me agradan los grandes desafíos, soy joven y tengo todas las ganas de emprender, aprender con compromiso y determinacion, hasta cumplir mis objetivos 🚀.
     
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
     
     ✅cuento con mas de 60 certificados de desarrollo web.
     
-    ✅Actualmente llevo cursando 3 semestres de ingeniería en sistemas, en la Universidad Tecnica de Machala 🚀.</p>
+    ✅Actualmente llevo cursando 3 semestres de ingeniería en sistemas, en la Universidad Tecnica de Machala 🚀.
 </div>
