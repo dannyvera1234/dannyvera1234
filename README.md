@@ -1,4 +1,4 @@
-<div id="hearder">
+<div>
   <h1 style="text-align: center">
     👋 Saludos, mi nombre es Daniel Vera Desarrollador FrontEnd Jr.
   </h1>
@@ -30,7 +30,7 @@
   </p>
 
   <h3>EXPERIENCIA ⚡ ⚡</h3>
-  <div>
+  
     <p>
       ✅ mas de 800 horas de teoría y practica en el bootcamp de hennry,
       aprendiendo tecnologías como react, redux, node, express, postgress.
@@ -47,5 +47,5 @@
       ✅Actualmente soy ingeniería en sistemas, en la Universidad Laica Eloy
       Alfaro de Manabi🚀.
     </p>
-  </div>
+  
 </div>
