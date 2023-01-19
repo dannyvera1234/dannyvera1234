@@ -1,41 +1,51 @@
+<div id="hearder">
+  <h1 style="text-align: center">
+    👋 Saludos, mi nombre es Daniel Vera Desarrollador FrontEnd Jr.
+  </h1>
+  <img style=""
+    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+    width="300"
+  />
+  <h2>Skills: ANGULAR / JS / HTML / CSS</h2>
+  <p>
+    Soy estudiante de programacion desde el 2022, aprendiendo paradigamas de
+    programacion, luego fui descubriendo el maravilloso mundo del desarrollo
+    web, el cual desde el principio del 2022 no he dejado ni un dia de
+    aprender💪.
+  </p>
 
+  <h3>✔ PORTAFOLIO:</h3>
+  <p>
+    ✅ Me agradan los grandes desafíos, soy joven y tengo todas las ganas de
+    emprender, aprender con compromiso y determinacion, hasta cumplir mis
+    objetivos 🚀.
+  </p>
+  <p>
+    ✅ Aprovecho al maximo las herramientas que tengo a mi disponibilidad, para
+    mejorar la eficacia al momento de escribir codigo.
+  </p>
+  <p>
+    ✅ Estoy interesado en el desarrollo web 🖥️, teniendo preferencias de
+    especializarme como front-end developer.
+  </p>
 
-<!--
-**dannyvera1234/dannyvera1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>EXPERIENCIA ⚡ ⚡</h3>
+  <div>
+    <p>
+      ✅ mas de 800 horas de teoría y practica en el bootcamp de hennry,
+      aprendiendo tecnologías como react, redux, node, express, postgress.
+    </p>
 
-Here are some ideas to get you started:
+    <p>
+      ✅mas de 300 horas de experiencia en platzi, aprendiendo tecnologías como
+      react, redux, javascript, html 5, css3 , Vite, Typescript , nodejs.
+    </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div style="text-align: center;">
-    <h1>👋 Saludos, mi nombre es Daniel Vera Desarrollador FrontEnd Jr</h1>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" >
-   <p>Skills: ANGULAR / JS / HTML / CSS / SASS <p>
+    <p>✅cuento con mas de 60 certificados de desarrollo web.</p>
 
-    Soy estudiante de programacion desde el 2022, empezando con el lenguaje de Java, aprendiendo paradigamas de programacion, luego fui descubriendo el maravilloso mundo del desarrollo web, el cual desde el principio del 2022 no he dejado ni un dia de aprender💪 .
-    
-    ✔ PORTAFOLIO: 
-    
-    ✅ Me agradan los grandes desafíos, soy joven y tengo todas las ganas de emprender, aprender con compromiso y determinacion, hasta cumplir mis objetivos 🚀.
-    
-    ✅ Aprovecho al maximo las herramientas que tengo a mi disponibilidad, para mejorar la eficacia al momento de escribir codigo.
-    
-    ✅ Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , teniendo preferencias de especializarme como front-end developer.
-    
-    EXPERIENCIA ⚡ ⚡
-    
-    ✅ mas de 800 horas de teoría y practica en el bootcamp de hennry, aprendiendo tecnologías como react, redux, node, express, postgress.
-    
-    ✅mas de 300 horas de experiencia en platzi, aprendiendo tecnologías como react, redux, javascript, html 5, css3 , Vite, Typescript , nodejs.
-    
-    ✅cuento con mas de 60 certificados de desarrollo web.
-    
-    ✅Actualmente llevo cursando 3 semestres de ingeniería en sistemas, en la Universidad Tecnica de Machala 🚀.
+    <p>
+      ✅Actualmente soy ingeniería en sistemas, en la Universidad Laica Eloy
+      Alfaro de Manabi🚀.
+    </p>
+  </div>
 </div>
