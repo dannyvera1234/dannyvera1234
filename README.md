@@ -2,10 +2,9 @@
   <h1 style="text-align: center">
     👋 Saludos, mi nombre es Daniel Vera Desarrollador FrontEnd Jr.
   </h1>
-  <img style=""
-    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-    width="300"
-  />
+ <div style="text-align: center">
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+  </div>
   <h2>Skills: ANGULAR / JS / HTML / CSS</h2>
   <p>
     Soy estudiante de programacion desde el 2022, aprendiendo paradigamas de
