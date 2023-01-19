@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div style="text-align: center;">
     <h1>👋 Saludos, mi nombre es Daniel Vera Desarrollador FrontEnd Jr</h1>
-   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" >
+   <img src=["https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)" >
    <p>Skills: REACT / JS / HTML / CSS / SASS / NODE.JS / EXPRESS / POSTGRESSQL / VITE
 
     Soy estudiante de programacion desde el 2021, empezando con el lenguaje de Java, aprendiendo paradigamas de programacion, luego fui descubriendo el maravilloso mundo del desarrollo web, el cual desde el principio del 2022 no he dejado ni un dia de aprender💪 .
