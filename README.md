@@ -43,6 +43,7 @@
       Alfaro de Manabi🚀.
     </p>  
    <h2>Frontend</h2>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40">
    <h2>DevOps</h2>
    <h2GitHub Stats</h2>
    <h2>Contacta conmigo 🤝🤝</h2>
