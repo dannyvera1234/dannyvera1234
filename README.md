@@ -44,6 +44,8 @@
     </p>  
    <h2>Frontend</h2>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40">
+  <img src="https://img2.freepng.es/20180510/trw/kisspng-html-css-design-and-build-web-sites-web-develop-5af50c33d59ff9.681459051526008883875.jpg" alt="css" width="50">
+<img src="https://img1.freepng.es/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg" alt="js"  width="50">
    <h2>DevOps</h2>
    <h2GitHub Stats</h2>
    <h2>Contacta conmigo 🤝🤝</h2>
