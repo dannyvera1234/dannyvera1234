@@ -49,7 +49,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg" alt=""  width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt=""  width="50">
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.png" alt="" width="70">
-     <h2GitHub Stats</h2>
+     <h2>GitHub Stats</h2>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dannyvera1234&theme=dark&locale=es&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+ 
    <h2>Contacta conmigo 🤝🤝</h2>
 </div>
