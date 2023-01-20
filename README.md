@@ -44,8 +44,11 @@
     </p>  
    <h2>Frontend</h2>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html" width="50">
-  <img src="https://img2.freepng.es/20180510/trw/kisspng-html-css-design-and-build-web-sites-web-develop-5af50c33d59ff9.681459051526008883875.jpg" alt="css" width="50">
-<img src="https://e7.pngegg.com/pngimages/490/824/png-clipart-product-design-logo-brand-trademark-javascript-logo-text-trademark.png" alt="js"  width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt=""  width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt=""  width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg" alt=""  width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt=""  width="50">
+<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.png" alt="" width="50">
    <h2>DevOps</h2>
    <h2GitHub Stats</h2>
    <h2>Contacta conmigo 🤝🤝</h2>
