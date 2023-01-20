@@ -42,4 +42,8 @@
       ✅Actualmente soy ingeniería en sistemas, en la Universidad Laica Eloy
       Alfaro de Manabi🚀.
     </p>  
+   <h2>Frontend</h2>
+   <h2>DevOps</h2>
+   <h2GitHub Stats</h2>
+   <h2>Contacta conmigo 🤝🤝</h2>
 </div>
