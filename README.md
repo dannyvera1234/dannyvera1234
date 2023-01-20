@@ -39,7 +39,7 @@
     </p>
     <p>✅cuento con mas de 60 certificados de desarrollo web.</p>
     <p>
-      ✅Actualmente soy ingeniería en sistemas, en la Universidad Laica Eloy
+      ✅Actualmente soy graduado de la carrera de ingeniería en sistemas, en la Universidad Laica Eloy
       Alfaro de Manabi🚀.
     </p>  
    <h2>Frontend</h2>
