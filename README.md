@@ -48,7 +48,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt=""  width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg" alt=""  width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt=""  width="50">
-<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.png" alt="" width="50">
+<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.png" alt="" width="70">
    <h2>DevOps</h2>
    <h2GitHub Stats</h2>
    <h2>Contacta conmigo 🤝🤝</h2>
