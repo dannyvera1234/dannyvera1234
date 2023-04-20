@@ -1,52 +1,18 @@
-<div>
-  <h1 style="text-align: center">
-    👋 Saludos, mi nombre es Daniel Vera Desarrollador FrontEnd Jr.
-  </h1>
- <div style="text-align: center">
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
-  </div>
-  <h2>Skills: ANGULAR / JS / HTML / CSS</h2>
-  <p>
-    Soy estudiante de programacion desde el 2022, aprendiendo paradigamas de
-    programacion, luego fui descubriendo el maravilloso mundo del desarrollo
-    web, el cual desde el principio del 2022 no he dejado ni un dia de
-    aprender💪.
-  </p>
+# 💫 About Me:
+Soy un graduado apasionado de la programación desde el 2022. Comencé aprendiendo los diferentes paradigmas de programación y poco a poco fui descubriendo el maravilloso mundo del desarrollo web. Desde entonces, no he dejado un solo día de aprender y mejorar mis habilidades 💪.<br><br>En mi portafolio, podrás encontrar proyectos que demuestran mi capacidad para enfrentar grandes desafíos. Soy una persona joven, motivada y comprometida con el aprendizaje continuo, y estoy decidido a alcanzar mis objetivos 🚀.<br><br>En mi trabajo, aprovecho al máximo las herramientas y tecnologías disponibles para mejorar mi eficacia y escribir un código limpio y legible.<br><br>En cuanto a mis intereses, estoy especialmente interesado en el desarrollo web 🖥️, y tengo la intención de especializarme como front-end developer. Siempre estoy abierto a nuevas oportunidades y desafíos que me permitan seguir creciendo como programador y como persona.
 
-  <h3>✔ PORTAFOLIO:</h3>
-  <p>
-    ✅ Me agradan los grandes desafíos, soy joven y tengo todas las ganas de
-    emprender, aprender con compromiso y determinacion, hasta cumplir mis
-    objetivos 🚀.
-  </p>
-  <p>
-    ✅ Aprovecho al maximo las herramientas que tengo a mi disponibilidad, para
-    mejorar la eficacia al momento de escribir codigo.
-  </p>
-  <p>
-    ✅ Estoy interesado en el desarrollo web 🖥️, teniendo preferencias de
-    especializarme como front-end developer.
-  </p>
 
-  <h3>EXPERIENCIA</h3>  
-    <p>
-      ✅ 
-    </p>
-    <p>
-      ✅
-    </p>
-    <p>✅b.</p>
-    <p>
-      ✅Actualmente soy graduado de la carrera de ingeniería en sistemas, en la Universidad Laica Eloy
-      Alfaro de Manabi🚀.
-    </p>  
-   <h2>Frontend</h2>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" alt="html" width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt=""  width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt=""  width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain.svg" alt=""  width="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt=""  width="50">
-<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.png" alt="" width="70"> 
- 
-   <h2>Contacta conmigo 🤝🤝</h2>
-</div>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dannyvera&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dannyvera&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dannyvera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dannyvera&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dannyvera&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
